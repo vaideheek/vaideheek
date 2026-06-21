@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Vaidehee 👋
 
 <!--
 **vaideheek/vaideheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I’m Vaidehee 👋
-
 Graduate Java Engineer with experience in backend development, enterprise systems and digital product development.
 
 I recently completed my MSc in Business Informatics at the University of Debrecen and have previous software development experience from Nokia, where I worked on Java enterprise systems, Spring/Hibernate modernisation, SSO integration and Agile delivery.
