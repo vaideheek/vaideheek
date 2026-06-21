@@ -38,7 +38,7 @@ A full-stack application for tracking job applications, documents, priorities, f
 
 ## Tech stack
 
-Java · Spring Boot · Hibernate · PostgreSQL · MySQL · REST APIs · Docker · Git · GitHub Actions · React · TypeScript · PHP · Python · SQL
+Java · Spring Boot · Hibernate · PostgreSQL · MySQL · REST APIs · Docker · Git · PHP · Python · SQL
 
 ## Background
 
